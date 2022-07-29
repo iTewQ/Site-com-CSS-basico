@@ -1,0 +1,24 @@
+.t1 {
+  background-image: url("https://www.spacex.com/static/images/backgrounds/dragon_feature.webp");
+  background-repeat: no-repeat;
+  background-size: 150%;
+}
+h1 {
+  color: white;
+}
+h3 {
+  color: yellow;
+}
+li {
+  color: white;
+}
+h2 {
+  background-color: yellow;
+  border: 2px solid black;
+}
+#li2 {
+  color: red;
+}
+#img1 {
+  text-align: center;
+}
